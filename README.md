@@ -18,6 +18,10 @@ Go base concept learn and practice
 
 ## 镜像容器构建（）
 
+## 工程开发
+- 依赖管理
+- 
+
 ## Web构建（×）
 
 # 三、相关优秀项目
