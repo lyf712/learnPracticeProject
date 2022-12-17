@@ -8,11 +8,13 @@ Go base concept learn and practice
 - 可参与开发大型软件的go-sdk
 - 应用go并发特性去构建容器管理，分析Docker等实现
 
-
 # 二、学习内容
 
 ## 基础语法
 [W3schooll](https://www.w3cschool.cn/go/go-ide.html)
+
+[脚本之家-七篇入门教程](https://www.jb51.net/article/228730.htm)
+
 
 ## 并发、网络工具
 
@@ -24,9 +26,13 @@ Go base concept learn and practice
 
 ## Web构建（×）
 
+## 相关书籍
+
+
 # 三、相关优秀项目
 
 容器管理
 [docker-compose](https://github.com/docker/compose)
 服务发现与配置注册中心
 [polaris](https://github.com/polarismesh/polaris)
+
